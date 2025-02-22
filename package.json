@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^5.66.9",
+    "@types/stream-json": "^1.7.8",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
@@ -19,6 +20,7 @@
     "react-dom": "^19.0.0",
     "react-virtuoso": "^4.12.5",
     "recharts": "^2.15.1",
+    "stream-json": "^1.9.1",
     "tailwind-merge": "^3.0.1",
     "tailwindcss-animate": "^1.0.7"
   },
