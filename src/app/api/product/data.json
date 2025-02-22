@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": "P1",
+    "name": "Sản phẩm A",
+    "description": "Mô tả cho sản phẩm A",
+    "price": 19.99,
+    "stock": 120,
+    "sales": 50
+  },
+  {
+    "product_id": "P2",
+    "name": "Sản phẩm B",
+    "description": "Mô tả cho sản phẩm B",
+    "price": 29.99,
+    "stock": 80,
+    "sales": 35
+  },
+  {
+    "product_id": "P3",
+    "name": "Sản phẩm C",
+    "description": "Mô tả cho sản phẩm C",
+    "price": 9.99,
+    "stock": 200,
+    "sales": 120
+  },
+  {
+    "product_id": "P4",
+    "name": "Sản phẩm D",
+    "description": "Mô tả cho sản phẩm D",
+    "price": 15.5,
+    "stock": 150,
+    "sales": 75
+  },
+  {
+    "product_id": "P5",
+    "name": "Sản phẩm E",
+    "description": "Mô tả cho sản phẩm E",
+    "price": 45.0,
+    "stock": 60,
+    "sales": 20
+  },
+  {
+    "product_id": "P6",
+    "name": "Sản phẩm F",
+    "description": "Mô tả cho sản phẩm F",
+    "price": 12.75,
+    "stock": 180,
+    "sales": 95
+  },
+  {
+    "product_id": "P7",
+    "name": "Sản phẩm G",
+    "description": "Mô tả cho sản phẩm G",
+    "price": 55.0,
+    "stock": 40,
+    "sales": 15
+  },
+  {
+    "product_id": "P8",
+    "name": "Sản phẩm H",
+    "description": "Mô tả cho sản phẩm H",
+    "price": 33.33,
+    "stock": 95,
+    "sales": 45
+  },
+  {
+    "product_id": "P9",
+    "name": "Sản phẩm I",
+    "description": "Mô tả cho sản phẩm I",
+    "price": 27.89,
+    "stock": 110,
+    "sales": 60
+  },
+  {
+    "product_id": "P10",
+    "name": "Sản phẩm J",
+    "description": "Mô tả cho sản phẩm J",
+    "price": 39.99,
+    "stock": 70,
+    "sales": 30
+  }
+]
